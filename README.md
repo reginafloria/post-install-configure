@@ -76,9 +76,13 @@ Created Agent through the Administrative Panel
 <img src="https://imgur.com/uFTC2OW.jpg*" height="80%" width="80%" alt="Add screenshot description here"/>
 </p>
 <p>
-Configured SLA's (Service Level Agreement) through the Administrative Panel. An SLA is a mutual agreement which will
-dictate the level of severity of a technical issue and the expected time that the issue should be resolved
-i. Sev-A (1 hour, 24/7), ii. Sev-B (4 hours, 24/7), iii. Sev-C (8 hours, Mon-Fri)
+Configured SLA's (Service Level Agreement) through the Administrative Panel.
+  
+- An SLA is a mutual agreement which will dictate the level of severity of a technical issue and the
+  expected time that the issue should be resolved
+  - i. Sev-A (1 hour, 24/7) 
+  - ii. Sev-B (4 hours, 24/7) 
+  - iii. Sev-C (8 hours, Mon-Fri)
 </p>
 <br />
 
