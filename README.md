@@ -65,10 +65,10 @@ Created users through the Agents Panel, Karen and Ken
 <br />
 
 <p>
-<img src="https://imgur.com/9Adu4TI.jpg*" height="80%" width="80%" alt="Add screenshot description here"/>
+<img src="https://imgur.com/QHqVdFV.jpg*" height="80%" width="80%" alt="Add screenshot description here"/>
 </p>
 <p>
-Created Agent through the Administrative Panel
+Created Agents, Jane and John through the Administrative Panel
 </p>
 <br />
 
